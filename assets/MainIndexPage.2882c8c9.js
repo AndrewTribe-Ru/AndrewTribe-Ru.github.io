@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.70219a20.js";import{o as a,c as t,w as r,e as o}from"./index.17a483d5.js";import"./render.c21811ee.js";const l={__name:"MainIndexPage",setup(c){return(s,n)=>(a(),t(e,{class:"flex flex-center"},{default:r(()=>[o(" \uBA54\uC778 \uD398\uC774\uC9C0 \uC785\uB2C8\uB2E4. ")]),_:1}))}};export{l as default};

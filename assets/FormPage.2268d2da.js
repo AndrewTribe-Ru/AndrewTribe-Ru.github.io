@@ -1,1 +1,0 @@
-import{Q as e}from"./QBtn.dab5c315.js";import{a2 as a,o as t,a5 as r,a as o,w as c,e as n}from"./index.17a483d5.js";import"./render.c21811ee.js";const s={};function l(_,f){return t(),r("div",null,[o(e,null,{default:c(()=>[n("\uC2E0\uCCAD\uC11C \uC791\uC131")]),_:1})])}var p=a(s,[["render",l]]);export{p as default};
