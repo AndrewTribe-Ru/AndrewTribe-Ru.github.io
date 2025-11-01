@@ -1,0 +1,1 @@
+import{u as o}from"./i18n.072239a0.js";import"./index.854ae33f.js";var n={install:t=>{t.config.globalProperties.$t=r=>o().$t(r),t.provide("$t",r=>o().$t(r))}},u=({app:t})=>{t.use(n)};export{u as default};
